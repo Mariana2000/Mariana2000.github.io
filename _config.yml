@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xieheng Wang / Site Title"
+title                    : "Xieheng Wang"
 title_separator          : "-"
 name                     : &name "Xieheng Wang"
 description              : &description "Undergraduate student"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xieheng Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Undergraduate student, Tsinghua University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
