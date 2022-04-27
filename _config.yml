@@ -78,7 +78,7 @@ analytics:
   provider               : "google-gtag"
   google:
     measurement_id          : "G-M295RN079Y"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:
