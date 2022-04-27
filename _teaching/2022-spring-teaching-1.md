@@ -8,4 +8,6 @@ date: 2022.2-2022.3
 location: "Beijing, China"
 ---
 
-I worked as the teaching assistant for this class for have of the semester.
+I worked as the **teaching assistant** for this class for have of the semester.
+
+This is a course teaching students the basics skills of orienteering. First of all, combined with the teaching video, introduce the knowledge of topographic map, the use of topographic map, the modulation of topographic map, the knowledge of orienteering, etc., and then go to the field to train the skills of finding control points according to the map, running skills and campus orienteering, park orienteering and field orienteerijng skills.

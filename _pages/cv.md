@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae]
+
 Education
 ======
 * B.S. in Measurement, Control Technology and Instruments, Tsinghua University, 2023(expected)
