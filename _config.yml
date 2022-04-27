@@ -77,7 +77,7 @@ analytics:
   google:
     tracking_id          :  UA-227266762-1
 
-google_analytics: UA-XXXXXXXXX-X
+google_analytics: UA-227266762-1
   # provider               : "custom"
   # google:
   #   measurement_id          : "G-M295RN079Y"
