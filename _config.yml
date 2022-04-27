@@ -75,7 +75,7 @@ social:
 analytics:
   # provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   # google:
-  provider               : "google-gtag"
+  provider               : "custom"
   google:
     measurement_id          : "G-M295RN079Y"
     anonymize_ip         : false # true, false (default)
