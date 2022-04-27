@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae]
+[Curriculum Vitae](https://mariana2000.github.io/files/cv_wxh_English.pdf)
 
 Education
 ======
@@ -33,8 +33,8 @@ Skills
   * Python
   * C/C++
 * Software
-  * R(familiar)
-  * Matlab(including simulink)
+  * R (familiar)
+  * Matlab (including simulink)
 
 <!-- Publications
 ======

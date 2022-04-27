@@ -1,11 +1,20 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'First Blog Post'
+date: 2022-04-27
+permalink: /posts/2022/04/blog-post-1/
 tags:
   - cool posts
-  - category1
-  - category2
+  - Orienteering
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is the first blog of my website. I'm writing this in order to test whether it works well.
+So I just want to talk a little about orienteering, the sports which I am fascinated with since I entered university. 
+
+The university's military skill training for each freshman included "orienteering". The first time I had access to this sport, I felt that it is exactly what I want. So I joined the school orienteering association and started this wonderful journey.
+
+The classic principle of orienteering is simple: you get a map from the start, and you need to arrive at each control points denoted in the map in the correct order as the the numbers indicates, and then reach the final to stop timing. In the process, you are not allowed to use any electronic devices that can help you locate, except for a compass. When comparing the rersults, first, you need to be valid. which means you didn't miss any point and reach all the controls with the correct order, then the person who used the shortest time will win.
+
+[My first orienteering map]<img src='/images/1stmap.jpg'>
+
+For more contents about the basic rules and my experience about orienteering, I will post them in later blogs posts or portfolios.
+
