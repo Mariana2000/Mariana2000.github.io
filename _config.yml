@@ -73,12 +73,13 @@ social:
 
 # Analytics
 analytics:
-  # provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  # google:
-  provider               : "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    measurement_id          : "G-M295RN079Y"
-    anonymize_ip         : false # true, false (default)
+    tracking_id          :  UA-227266762-1
+  # provider               : "custom"
+  # google:
+  #   measurement_id          : "G-M295RN079Y"
+  #   anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:
