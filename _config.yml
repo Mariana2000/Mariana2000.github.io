@@ -76,6 +76,8 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  UA-227266762-1
+
+google_analytics: UA-XXXXXXXXX-X
   # provider               : "custom"
   # google:
   #   measurement_id          : "G-M295RN079Y"
