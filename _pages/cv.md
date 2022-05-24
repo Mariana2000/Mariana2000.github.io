@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Measurement, Control Technology and Instruments, Tsinghua University, 2023(expected)
-* Minor in Statistics, Tsinghua University, 2023(expexted)
+* Minor in Statistics, Tsinghua University, 2023(expected)
 
 <!-- Work experience
 ======
