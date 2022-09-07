@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Measurement, Control Technology and Instruments, Tsinghua University, 2023(expected)
-* Minor in Statistics, Tsinghua University, 2023(expected)
+* B.Eng. in Measurement, Control Technology and Instruments, Tsinghua University, 2023 (expected)
+* Minor in Statistics, Tsinghua University, 2023 (expected)
 
 <!-- Work experience
 ======
@@ -30,12 +30,10 @@ Education
   
 Skills
 ======
-* Programming language
-  * Python
-  * C/C++
-* Software
-  * R (familiar)
-  * Matlab 
+* Programming
+  * Python, C/C++
+* Tools
+  * R, Matlab 
 
 <!-- Publications
 ======
