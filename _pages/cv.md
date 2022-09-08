@@ -31,9 +31,9 @@ Education
 Skills
 ======
 * Programming
-  * Python, C/C++
+  * R, Python, PyTorch, MATLAB, C/C++
 * Tools
-  * R, Matlab 
+  * LaTeX, Linux, SPSS, Git, OCAD 
 
 <!-- Publications
 ======
