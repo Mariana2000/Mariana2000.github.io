@@ -1,5 +1,5 @@
 ---
-title: "The Martial Geomorphology and The Directional Sport(Orienteering)"
+title: "The Martial Geomorphology and The Directional Sport (Orienteering)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
