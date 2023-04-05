@@ -19,3 +19,8 @@ I was also fortunate to work with Prof. [Bingxin Zhao](https://www.bingxinzhao.c
 **I'm looking for a PhD opportunity starting from fall 2023.** 
 
 In my spare time, I'm a fanatic sports fan. I'm especially fond of **orienteering**, a sport challenging both mental and physical power, and I'm currrently a member of **Tsinghua Orienteering Team**. I will post some of my experiences or findings about orienteering in [Portfolio](https://mariana2000.github.io/portfolio/) and [Blog Posts](https://mariana2000.github.io/year-archive/).
+
+------------------
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">Total visit: <span id="busuanzi_value_site_pv"></span> times</span>
