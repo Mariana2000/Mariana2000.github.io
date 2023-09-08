@@ -1,13 +1,13 @@
 ---
 permalink: /
-# title: "About me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+## Welcome!
 -----
 I am currently a first-year Ph.D. student in Statistics at [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Wei Pan](http://www.biostat.umn.edu/~weip/). 
 
