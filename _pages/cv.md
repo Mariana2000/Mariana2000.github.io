@@ -12,9 +12,12 @@ redirect_from:
 [Curriculum Vitae](https://mariana2000.github.io/files/cv_wxh_English.pdf)
 
 Education
+
 ======
-* B.Eng. in Measurement, Control Technology and Instruments, Tsinghua University, 2023 (expected)
-* Minor in Statistics, Tsinghua University, 2023 (expected)
+
+* Ph.D. in Statistics, University of Minnesota, Twin Cities, 2028 (expected)
+* B.Eng. in Measurement, Control Technology and Instruments, Tsinghua University, 2023
+* Minor in Statistics, Tsinghua University, 2023
 
 <!-- Work experience
 ======

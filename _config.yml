@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xieheng Wang"
 title_separator          : "-"
 name                     : &name "Xieheng Wang"
-description              : &description "Undergraduate student"
+description              : &description "Ph.D. student in Statistics"
 url                      : https://Mariana2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mariana2000/Mariana2000.github.io"
@@ -87,12 +87,12 @@ google_analytics: UA-227266762-1
 author:
   name             : "Xieheng Wang"
   avatar           : "profile.png"
-  bio              : "Undergraduate student, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Ph.D. Student in Statistics, University of Minnesota"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : mailto:wan01626@umn.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
