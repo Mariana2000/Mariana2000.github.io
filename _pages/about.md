@@ -21,3 +21,5 @@ In my spare time, I'm a fanatic sports fan. I'm especially fond of **orienteerin
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">Total visit: <span id="busuanzi_value_site_pv"></span> times</span>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CqAckg1ajIMERtr5Ax2OW0YHtZvety0aRNHPPI5QEVE&cl=ffffff&w=a"></script>
