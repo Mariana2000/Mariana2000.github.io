@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Tsinghua University, Military Department"
-date: 2022.2-2022.3
+date: 2022-02-01
 location: "Beijing, China"
 ---
 
