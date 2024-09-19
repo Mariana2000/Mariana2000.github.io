@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Welcome!
 -----
-I am currently a first-year Ph.D. student in Statistics at [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/).
+I am currently a second-year Ph.D. student in Statistics at [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Aaron Molstad](https://ajmolstad.github.io/).
 
 Previously, I received my B.Eng. from [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a minor in [Statistics](http://www.stat.tsinghua.edu.cn/en/page/rcpy/bkpy/). I was fortunate to work with Prof. [Jingyi Zhang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/jingyi-zhang/) and Prof. [Bingxin Zhao](https://www.bingxinzhao.com/) during my undergraduate study.
 

@@ -91,7 +91,7 @@ author:
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=93gZZZQAAAAJ&hl=en"
   email            : mailto:wan01626@umn.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -107,8 +107,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xieheng-wang-27b25128b/"
+  orcid            : "https://orcid.org/0009-0006-7675-8071"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -118,7 +118,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@MarianaOrienteering"
   wikipedia        :
 
 
