@@ -19,7 +19,7 @@
 
     var meta = document.querySelector('meta[name="theme-color"]');
     if (meta) {
-      meta.setAttribute("content", isDark(theme) ? "#1a1a1a" : "#f7f6f2");
+      meta.setAttribute("content", isDark(theme) ? "#1a1a1a" : "#f5f2ea");
     }
   }
 

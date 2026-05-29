@@ -43,11 +43,11 @@
 
 /* Soft light mode — warm off-white, easier on the eyes than pure #fff */
 html:not(.theme-is-dark) {
-  --theme-bg: #f7f6f2;
-  --theme-bg-elevated: #f0efeb;
-  --theme-bg-footer: #eceae4;
-  --theme-border: #e5e3dc;
-  --theme-code-bg: #f0efec;
+  --theme-bg: #f5f2ea;
+  --theme-bg-elevated: #eeebe3;
+  --theme-bg-footer: #e8e4d9;
+  --theme-border: #e0dcd0;
+  --theme-code-bg: #edeae2;
 }
 
 html:not(.theme-is-dark) body {
