@@ -1,18 +1,23 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Ph.D. student in Statistics at the University of Minnesota. Research in statistical genetics, dimension reduction, and transfer learning."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Welcome!
------
-I am currently a third-year Ph.D. student in Statistics at [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Aaron J. Molstad](https://ajmolstad.github.io/).
 
-Previously, I received my B.Eng. from [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a minor in [Statistics](https://www.stat.tsinghua.edu.cn/en/). I was fortunate to work with Prof. [Jingyi Zhang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/jingyi-zhang/) and Prof. [Bingxin Zhao](https://www.bingxinzhao.com/) during my undergraduate study.
+## News
 
-I have a broad interest in **statistics and biostatistics**. Driven by real world data, I am interested in tackling complex statistical problems emerging in fields such as biomedical science, environmental science and cybersecurity, with methodologies about (but not limited to) **dimension reduction, high-dimensional statistics, spatial statistics and transfer learning**. 
+{% include news.html %}
 
-In my spare time, I'm a big sports fan. I'm especially fond of **orienteering**, a sport challenging both mental and physical power, and I was a member of **Tsinghua Orienteering Team** during 2019-2023. Currently I'm a member of [OUSA](https://orienteeringusa.org/) and attend events held by [Minnesota Orienteering Club(MNOC)](https://www.mnoc.org/) occasionally. I will post some of my experiences or findings about orienteering in [Orienteering](https://mariana2000.github.io/portfolio/) and [Blog](https://mariana2000.github.io/year-archive/). Beyond orienteering, I'm also rooted for Minnesota [Timberwolves](https://www.nba.com/timberwolves/), [Twins](https://www.mlb.com/twins) and [Vikings](https://www.vikings.com/).
+## About
+
+I am a Ph.D. student in Statistics at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Aaron J. Molstad](https://ajmolstad.github.io/) in the [School of Statistics](https://cla.umn.edu/statistics).
+
+Previously, I received my B.Eng. from [Tsinghua University](https://www.tsinghua.edu.cn/en/) with a minor in [Statistics](https://www.stat.tsinghua.edu.cn/en/). During my undergraduate studies, I worked with Prof. [Jingyi Zhang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/jingyi-zhang/) and Prof. [Bingxin Zhao](https://www.bingxinzhao.com/).
+
+My research interests are in **statistics and biostatistics**, with a focus on methods for **high-dimensional and multi-omics data**. I am especially interested in problems arising in biomedical science and statistical genetics, using tools such as **dimension reduction**, **transfer learning**, and **causal inference**.
+
+Outside of research, I am an avid **orienteering** athlete. I competed with the **Tsinghua Orienteering Team** (2019–2023) and now train and volunteer with [Minnesota Orienteering Club (MNOC)](https://www.mnoc.org/) and [OUSA](https://orienteeringusa.org/). I share orienteering notes in my [Orienteering](/portfolio/) gallery and [Blog](/year-archive/). I also root for the Minnesota [Timberwolves](https://www.nba.com/timberwolves/), [Twins](https://www.mlb.com/twins), and [Vikings](https://www.vikings.com/).

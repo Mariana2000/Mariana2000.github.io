@@ -112,6 +112,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.attackpoint %}
+        <li><a href="{{ author.attackpoint }}"><img src="{{ base_path }}/images/attackpoint-icon.svg" class="ai ai-fw" alt="" aria-hidden="true" style="width:1em;height:1em;vertical-align:-0.125em;"> Attackpoint</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}

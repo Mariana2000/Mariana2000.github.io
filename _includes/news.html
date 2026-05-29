@@ -1,0 +1,10 @@
+{% include base_path %}
+<ul class="news-list">
+  {% assign news_items = site.data.news | sort: "date" | reverse %}
+  {% for item in news_items %}
+    <li>
+      <strong>{{ item.date | date: "%b %Y" }}</strong> —
+      {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+    </li>
+  {% endfor %}
+</ul>
