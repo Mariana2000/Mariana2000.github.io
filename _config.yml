@@ -84,7 +84,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=93gZZZQAAAAJ&hl=en"
   email            : wan01626@umn.edu
-  attackpoint      : "https://www.attackpoint.org/userprofile.jsp/user_21269"
+  attackpoint      : "https://www.attackpoint.org/log.jsp/user_21269"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -175,6 +175,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
+    sort_order: descending
   publications:
     output: false
     permalink: /:collection/:path/

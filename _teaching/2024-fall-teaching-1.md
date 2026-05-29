@@ -2,6 +2,7 @@
 title: "STAT 4101: Theory of Statistics I"
 collection: teaching
 type: "Teaching Assistant"
+term: "Fall 2024"
 permalink: /teaching/2024-fall-stat-4101
 redirect_from:
   - /teaching/2024-fall-teaching-1

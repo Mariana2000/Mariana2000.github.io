@@ -2,6 +2,7 @@
 title: "Orienteering Sports"
 collection: teaching
 type: "Teaching Assistant"
+term: "Spring 2022"
 permalink: /teaching/2022-spring-orienteering
 redirect_from:
   - /teaching/2022-spring-teaching-1
