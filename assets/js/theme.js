@@ -13,14 +13,18 @@
   }
 
   function applyTheme(theme) {
-    document.documentElement.setAttribute("data-theme", theme);
+    var root = document.documentElement;
+    root.setAttribute("data-theme", theme);
+    root.classList.toggle("theme-is-dark", isDark(theme));
+
     var meta = document.querySelector('meta[name="theme-color"]');
     if (meta) {
       meta.setAttribute("content", isDark(theme) ? "#1a1a1a" : "#ffffff");
     }
   }
 
-  function toggleTheme() {
+  function toggleTheme(event) {
+    if (event) event.preventDefault();
     var current = getTheme();
     var next = isDark(current) ? "light" : "dark";
     localStorage.setItem(STORAGE_KEY, next);
@@ -30,9 +34,9 @@
   applyTheme(getTheme());
 
   document.addEventListener("DOMContentLoaded", function () {
-    var button = document.getElementById("theme-toggle");
-    if (button) {
-      button.addEventListener("click", toggleTheme);
+    var toggle = document.getElementById("theme-toggle");
+    if (toggle) {
+      toggle.addEventListener("click", toggleTheme);
     }
   });
 

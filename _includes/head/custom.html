@@ -14,10 +14,11 @@
 <script>
   (function () {
     var stored = localStorage.getItem("site-theme");
-    document.documentElement.setAttribute(
-      "data-theme",
-      stored === "light" || stored === "dark" ? stored : "auto"
-    );
+    var theme = stored === "light" || stored === "dark" ? stored : "auto";
+    var root = document.documentElement;
+    root.setAttribute("data-theme", theme);
+    var isDark = theme === "dark" || (theme === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    root.classList.toggle("theme-is-dark", isDark);
   })();
 </script>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/theme.css"/>
@@ -54,10 +55,5 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
-<style>
-  .news-list { padding-left: 1.2em; margin-bottom: 2em; }
-  .news-list li { margin-bottom: 0.6em; }
-</style>
 
 <!-- end custom head snippets -->
