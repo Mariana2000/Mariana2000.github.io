@@ -20,7 +20,7 @@ Previously, I received my B.Eng. from [Tsinghua University](https://www.tsinghua
 
 My research interests are in **statistics and biostatistics**, with a focus on methods for **high-dimensional and multi-omics data** and **sports analytics**. I am especially interested in problems arising in biomedical science, statistical genetics, and performance analysis in endurance sports, using tools such as **dimension reduction** and **transfer learning**.
 
-Outside of research, I am an avid **orienteering** athlete. I competed with the **Tsinghua Orienteering Team** (2019–2023) and now train and volunteer with [Minnesota Orienteering Club (MNOC)](https://www.mnoc.org/) and [OUSA](https://orienteeringusa.org/). I share orienteering notes in my [Orienteering](/portfolio/) gallery and [Blog](/year-archive/). You can also follow my training log on Attackpoint:
+Outside of research, I am an avid **orienteering** athlete. I competed with the **Tsinghua Orienteering Team** (2019–2023) and now train and volunteer with [Minnesota Orienteering Club (MNOC)](https://www.mnoc.org/) and [OUSA](https://orienteeringusa.org/). I share orienteering notes in my [Orienteering](/portfolio/) gallery and [Blog](/year-archive/), and occasionally post headcam videos from events on [YouTube](https://www.youtube.com/@MarianaOrienteering). You can also follow my training log on Attackpoint:
 
 <p><a href="https://www.attackpoint.org/log.jsp/user_21269"><img src="https://www.attackpoint.org/widget/log.js.jsp?r=1&amp;userid=21269" style="border: 2px solid black; border-color: #444 #000 #000 #444" alt="wxh's orienteering training log"></a></p>
 

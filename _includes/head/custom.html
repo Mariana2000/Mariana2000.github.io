@@ -11,6 +11,16 @@
 </script>
 
 <!-- start custom head snippets -->
+<script>
+  (function () {
+    var stored = localStorage.getItem("site-theme");
+    document.documentElement.setAttribute(
+      "data-theme",
+      stored === "light" || stored === "dark" ? stored : "auto"
+    );
+  })();
+</script>
+<link rel="stylesheet" href="{{ base_path }}/assets/css/theme.css"/>
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
