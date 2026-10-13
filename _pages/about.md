@@ -23,8 +23,7 @@ My research interests are in **statistics and biostatistics**, with a focus on m
 Outside of research, I am an avid **orienteering** athlete. I competed with the **Tsinghua Orienteering Team** (2019–2023) and now train and volunteer with [Minnesota Orienteering Club (MNOC)](https://www.mnoc.org/) and [OUSA](https://orienteeringusa.org/). I share orienteering notes in my [Orienteering](/portfolio/) gallery and [Blog](/year-archive/), and occasionally post headcam videos from events on [YouTube](https://www.youtube.com/@MarianaOrienteering). You can also follow my training log on Attackpoint:
 
 <div class="attackpoint-widget">
-  <a href="https://www.attackpoint.org/log.jsp/user_21269"><img src="https://www.attackpoint.org/widget/log.js.jsp?r=1&amp;userid=21269&amp;metric=km&amp;theme=0&amp;days=30&amp;h=150&amp;w=270" width="270" height="150" style="border: 2px solid black; border-color: #444 #000 #000 #444" alt="wxh's orienteering training over the last 30 days" onerror="this.hidden = true; document.getElementById('attackpoint-status').hidden = false;"></a>
-  <p id="attackpoint-status" hidden>The training chart is temporarily unavailable.</p>
+  <a href="https://www.attackpoint.org/log.jsp/user_21269"><img src="{{ '/assets/images/training-distance.svg' | relative_url }}?v={{ site.time | date: '%s' }}" width="360" height="274" alt="wxh's weekly training distance over the recent five weeks, including the current partial week. Updated daily from the public Attackpoint log; the last successful update date is shown on the chart."></a>
   <p><a href="https://www.attackpoint.org/log.jsp/user_21269">View my training log on Attackpoint</a></p>
 </div>
 

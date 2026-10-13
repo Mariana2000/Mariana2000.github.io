@@ -485,3 +485,11 @@ body {
   margin: 0 0 0.5em;
   font-weight: 600;
 }
+
+.attackpoint-widget img {
+  display: block;
+  width: 360px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.75em;
+}
