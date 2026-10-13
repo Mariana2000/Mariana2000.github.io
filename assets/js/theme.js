@@ -38,18 +38,6 @@
     if (toggle) {
       toggle.addEventListener("click", toggleTheme);
     }
-
-    // The visitor map can increase the sticky footer's height after page load.
-    var footer = document.querySelector(".page__footer");
-    if (footer && window.ResizeObserver) {
-      new ResizeObserver(function () {
-        var style = window.getComputedStyle(footer);
-        var height = footer.getBoundingClientRect().height;
-        height += parseFloat(style.marginTop) || 0;
-        height += parseFloat(style.marginBottom) || 0;
-        document.body.style.marginBottom = height + "px";
-      }).observe(footer);
-    }
   });
 
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {

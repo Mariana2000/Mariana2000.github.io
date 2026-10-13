@@ -455,6 +455,25 @@ html[data-theme="dark"] .masthead__menu-item--theme .theme-toggle:hover {
   margin-bottom: 0.6em;
 }
 
+/* Let the footer grow with its map without reserving empty space below the body. */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding-bottom: 0;
+}
+
+#main {
+  width: 100%;
+  flex: 1 0 auto;
+}
+
+.page__footer {
+  position: static;
+  float: none;
+  flex-shrink: 0;
+}
+
 /* Keep the visitor map compact and within narrow screens. */
 .visitor-map {
   width: 300px;
