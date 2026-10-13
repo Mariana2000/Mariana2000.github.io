@@ -22,6 +22,10 @@ My research interests are in **statistics and biostatistics**, with a focus on m
 
 Outside of research, I am an avid **orienteering** athlete. I competed with the **Tsinghua Orienteering Team** (2019–2023) and now train and volunteer with [Minnesota Orienteering Club (MNOC)](https://www.mnoc.org/) and [OUSA](https://orienteeringusa.org/). I share orienteering notes in my [Orienteering](/portfolio/) gallery and [Blog](/year-archive/), and occasionally post headcam videos from events on [YouTube](https://www.youtube.com/@MarianaOrienteering). You can also follow my training log on Attackpoint:
 
-<p><a href="https://www.attackpoint.org/log.jsp/user_21269"><img src="https://www.attackpoint.org/widget/log.js.jsp?r=1&amp;userid=21269" style="border: 2px solid black; border-color: #444 #000 #000 #444" alt="wxh's orienteering training log"></a></p>
+<div class="attackpoint-widget">
+  <a href="https://www.attackpoint.org/log.jsp/user_21269"><img src="https://www.attackpoint.org/widget/log.js.jsp?r=1&amp;userid=21269&amp;metric=km&amp;theme=0&amp;days=30&amp;h=150&amp;w=270" width="270" height="150" style="border: 2px solid black; border-color: #444 #000 #000 #444" alt="wxh's orienteering training over the last 30 days" onerror="this.hidden = true; document.getElementById('attackpoint-status').hidden = false;"></a>
+  <p id="attackpoint-status" hidden>The training chart is temporarily unavailable.</p>
+  <p><a href="https://www.attackpoint.org/log.jsp/user_21269">View my training log on Attackpoint</a></p>
+</div>
 
 I also root for the Minnesota [Timberwolves](https://www.nba.com/timberwolves/), [Twins](https://www.mlb.com/twins), and [Vikings](https://www.vikings.com/).

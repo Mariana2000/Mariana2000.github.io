@@ -454,3 +454,15 @@ html[data-theme="dark"] .masthead__menu-item--theme .theme-toggle:hover {
 .news-list li {
   margin-bottom: 0.6em;
 }
+
+/* Keep the visitor map compact and within narrow screens. */
+.visitor-map {
+  width: 300px;
+  max-width: 100%;
+  margin: 1.5em 0;
+}
+
+.visitor-map__title {
+  margin: 0 0 0.5em;
+  font-weight: 600;
+}

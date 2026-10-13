@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2026-05-29
+modified: 2026-10-12
 ---
 
 ## Privacy Policy
@@ -14,7 +14,7 @@ This site uses [Google Analytics 4](https://analytics.google.com/) to understand
 
 ### Visitor counters and maps
 
-The site footer may load third-party scripts for visit counting (Busuanzi) and visitor map display (ClustrMaps). These services may collect basic usage data such as IP address, browser type, and pages viewed.
+The site footer may load third-party scripts for visit counting (Busuanzi) and visitor map display (MapMyVisitors). These services may collect basic usage data such as IP address, browser type, and pages viewed.
 
 ### Comments
 
